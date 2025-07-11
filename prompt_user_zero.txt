@@ -1,0 +1,5 @@
+Extract the CAD-RADS, Plaque burden, and Modifier from a given coronary artery CT report follwing the below format.
+
+### CAD-RADS/Plaque Burden/Modifier: 2/P1/E
+===
+### Report: 

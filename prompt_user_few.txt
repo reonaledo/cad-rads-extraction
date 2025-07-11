@@ -1,0 +1,54 @@
+Extract the CAD-RADS, Plaque burden, and Modifier from a given coronary artery CT report like three examples below.
+===
+Example 1:
+
+### Report:
+s/p OPCAB; RSVG to LITA (Y), LITA to LAD, RSVG to OM1/OM2/PDA (seq).
+
+RSVG to LITA (Y) patent.
+LITA to LAD patent graft with good distal run-off.
+RSVG to OM1 severe graft stenosis with faint distal run-off.
+RSVG to OM2 Segmental occlusion - r/o graft regression.
+RSVG to PDA (seq) patent graft with good distal run-off.
+
+LM: <5% stenosis with calcified plaques.
+pLCx: 50-60% stenosis with mixed plaques.
+dLCx, OM1, OM2: multifocal severe stenosis to occlusion.
+LV dilatation.
+Diffuse atherosclerosis in thoracic aorta and its major branches without significant stenosis.
+
+### CAD-RADS/Plaque Burden/Modifier: 5/None/G
+===
+Example 2:
+
+### Report:
+RCA arising just above Left coronary sinus with interarterial course.
+--> pRCA: Diffuse small caliber.
+Otherwise, mild atherosclerosis with no significant stenosis in the coronary arteries.
+LM LAD LCx unremarkable.
+RI <25-30% stenosis with mixed plaque.
+No remarkable finding in the LV myocardium.
+Total coronary calcium score = 0.91'
+
+### CAD-RADS/Plaque Burden/Modifier: 2/P1/E
+===
+Example 3:
+
+### Report:
+LM : distal up to 30% stenosis with mixed plaque
+LAD : proximal up to 30% stenosis with mixed plaque
+LAD : mid 30-40% stenosis with calcified plaque
+RI (or early D1) : proximal 30-40% stenosis with calcified plaque
+LCx : proximal 30-40% stenosis with calcified plaque
+RCA : proximal <30% stenosis with calcified plaque
+
+Diffuse LVH: basal ant. septum: 20 mm at diastolic phase.
+HCM cannot be excluded. 
+rec) clinical correlation.
+No definite evidence of PTE nor acute aortic syndrome. 
+
+### CAD-RADS/Plaque Burden/Modifier: 2/P3/N
+===
+Now, extract the information from following report in the same format:
+
+### Report: 
